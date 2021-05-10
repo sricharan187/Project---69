@@ -1,0 +1,113 @@
+body {
+	text-align: center;
+}
+
+#contactus {
+	color: #FFFFFF;
+	bottom: 0;
+	background: linear-gradient(#60ebeb 0%, #27ae60 100%);
+	display: table;
+	width: 100%;
+	height: 100%;
+	z-index: 9;
+}
+
+h5 {
+	font-size: 20px;
+	font-family: sans-serif;
+	font-weight: 300;
+}
+
+#contact iframe {
+	width: 100%;
+}
+
+.contact_1 h3 {
+	display: inline;
+}
+
+.contact_1 a {
+	text-shadow: none;
+}
+
+input {
+	background: grey;
+}
+
+.sch_vid {
+	padding-top: 25px;
+	padding-bottom: 25px;
+	background: linear-gradient(#60ebeb 0%, #27ae60 100%);
+}
+
+#marqueeStyle {
+	background-color: greenyellow;
+}
+
+.ach_head {
+	font-size: 20px;
+	padding: 6px 22px;
+	border-radius: 10px;
+	margin-bottom: 15px;
+	width: 100%;
+	display: inline-block;
+}
+
+.ach_head i {
+	float: right;
+}
+
+.sch_text span {
+	color: #FF7700;
+}
+
+#achievements {
+	text-align: left;
+}
+
+#achievements_header {
+	text-align: center;
+	margin-top: -20px;
+	padding-top: 3px;
+}
+
+#basketballCompetation {
+	color: chartreuse;
+}
+
+#achievementsID {
+	padding-bottom: 10px;
+}
+
+.row::after {
+	content: "";
+	clear: both;
+	display: table;
+}
+
+.travel_mainDiv {
+	text-align: center;
+	float: left;
+	width: 50%;
+	height: 500px;
+	padding: 5px;
+	border: 1px solid #c7c7c7;
+}
+
+.travel_mainDiv img {
+	width: 100%;
+	height: 300px;
+	
+}
+
+.travel_mainDiv hr {
+	width: 100%;
+}
+
+.travel_mainDiv h5 , .travel_mainDiv p {
+	margin-left: 20px;
+}
+
+#campuslife {
+	margin-bottom: 25px;
+}
