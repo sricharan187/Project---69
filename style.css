@@ -1,11 +1,11 @@
 body {
 	text-align: center;
+		background: linear-gradient(#60ebeb 0%, #27ae60 100%);
 }
 
 #contactus {
 	color: #FFFFFF;
 	bottom: 0;
-	background: linear-gradient(#60ebeb 0%, #27ae60 100%);
 	display: table;
 	width: 100%;
 	height: 100%;
@@ -37,7 +37,6 @@ input {
 .sch_vid {
 	padding-top: 25px;
 	padding-bottom: 25px;
-	background: linear-gradient(#60ebeb 0%, #27ae60 100%);
 }
 
 #marqueeStyle {
@@ -67,7 +66,6 @@ input {
 
 #achievements_header {
 	text-align: center;
-	margin-top: -20px;
 	padding-top: 3px;
 }
 
@@ -110,4 +108,23 @@ input {
 
 #campuslife {
 	margin-bottom: 25px;
+}
+
+#campuslife_header {
+	text-align: center;
+	padding-top: 3px;
+	color: red;
+	background-color: yellow;
+}
+
+#achievements_header {
+	color: red;
+	background-color: yellow;
+}
+
+#contactus_header {
+	text-align: center;
+	padding : 25px;
+	color: red;
+	background-color: yellow;
 }
